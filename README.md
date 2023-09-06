@@ -1,34 +1,38 @@
 
-> AHTSHAM SHOUKAT
-> React & React Native Developer
->
-> About Me
+**AHTSHAM SHOUKAT**  
+>React & React Native Developer
 
-Experienced React Native and React JS expert adept in design and
+**About Me**
+>Experienced React Native and React JS expert adept in design and
 development of various applications. Effective at self-management for
 independent projects and skilled at collaborating in a team environment.
-Proven track record of project ownership.
-
-**Email:** ahtxham@gmail.com 
-**Phone:** +92-314-6625910
-**LinkedIn:** linkedin.com/in/ahtxham/ 
+Proven track record of project ownership. 
+>
+>**Email:** ahtxham@gmail.com  
+**Phone:** +92-314-6625910  
+**LinkedIn:** linkedin.com/in/ahtxham/  
 **Address:** Lahore, Pakistan
 
-> SKILLS
-> **Reac Native &React JS**
-> **Redux/MobX**
-> **Contex API** 
-> **REST** **API**
-> **Payment gateways: Stripe, Plaid google API: Translation, maps etc**  
-> **Social media integration**
-> **Blockchain integration**
-> **Git, jira, Hubstaff**
-> **Asana, Trello, ClickUp IOS safari Extension**
-> **CI/CD**
-> **Apps Deployment**
+ ***SKILLS***  
+>* **Reac Native & React JS**
+>* **Redux/MobX**  
+>* **Contex API**    
+>* **REST** **API**   
+>* **Payment gateways: Stripe, Plaid google API: Translation, maps etc**     
+>* **Social media integration**   
+>* **Blockchain integration**   
+>* **Git, jira, Hubstaff**   
+>* **Asana, Trello, ClickUp IOS safari Extension**   
+>* **CI/CD**   
+>* **Apps Deployment**   
+
+***EDUCATION***  
+>COMSATS University Islamabad  
+Masters of Sciences in Computer Science (MSCS)  
+2017-2020 
 >
-> EDUCATION
->
-> COMSATS University Islamabad
-> Masters of Sciences in Computer Science 
->(MSCS) 2017-2020
+>Islamia University Bahawalpur  
+Bachelor of Sciences in Computer Science (BSCS)  
+2013-2017
+
+>**Portfolio:** https://docs.google.com/document/d/1znbaRXAFbrbW0hYbICxp2tTEcwDSQosIko3JSKJ2K74
