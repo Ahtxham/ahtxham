@@ -9,12 +9,12 @@ independent projects and skilled at collaborating in a team environment.
 Proven track record of project ownership. 
 >
 >**Email:** ahtxham@gmail.com  
-**Phone:** +92-314-6625910  
-**LinkedIn:** linkedin.com/in/ahtxham/  
+**Phone:** [+92-314-6625910](tel:923146625910)  
+**LinkedIn:** [linkedin.com/in/ahtxham/](http://www.linkedin.com/in/ahtxham/)  
 **Address:** Lahore, Pakistan
 
  ***SKILLS***  
->* **Reac Native & React JS**
+>* **Reac Native &React JS**
 >* **Redux/MobX**  
 >* **Contex API**    
 >* **REST** **API**   
@@ -35,4 +35,5 @@ Masters of Sciences in Computer Science (MSCS)
 Bachelor of Sciences in Computer Science (BSCS)  
 2013-2017
 
->**Portfolio:** https://docs.google.com/document/d/1znbaRXAFbrbW0hYbICxp2tTEcwDSQosIko3JSKJ2K74
+>[**Portfolio Link**](https://docs.google.com/document/d/1znbaRXAFbrbW0hYbICxp2tTEcwDSQosIko3JSKJ2K74)
+
