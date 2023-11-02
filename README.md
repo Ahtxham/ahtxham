@@ -11,20 +11,24 @@ Proven track record of project ownership.
 >**Email:** ahtxham@gmail.com  
 **Phone:** [+92-314-6625910](tel:923146625910)  
 **LinkedIn:** [linkedin.com/in/ahtxham/](http://www.linkedin.com/in/ahtxham/)  
+**Stackoverflow:** [stackoverflow.com/users/5920106/ahtsham-shoukat](https://stackoverflow.com/users/5920106/ahtsham-shoukat)  
 **Address:** Lahore, Pakistan
 
  ***SKILLS***  
->* **Reac Native &React JS**
+>* **Reac Native & React JS**
 >* **Redux/MobX**  
 >* **Contex API**    
->* **REST** **API**   
->* **Payment gateways: Stripe, Plaid google API: Translation, maps etc**     
+>* **REST API**   
+>* **Payment gateways: Stripe, Plaid, google Translation API, google maps etc**
+>* **Push Notifications**
+>* **Realtime communication using firesbase,pubnub and web sockets socket**    
 >* **Social media integration**   
 >* **Blockchain integration**   
 >* **Git, jira, Hubstaff**   
 >* **Asana, Trello, ClickUp IOS safari Extension**   
 >* **CI/CD**   
->* **Apps Deployment**   
+>* **Apps Deployment**
+>* **Github actions**   
 
 ***EDUCATION***  
 >COMSATS University Islamabad  
